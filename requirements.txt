@@ -1,1 +1,1 @@
-pandas
+# No external Python dependencies required.
